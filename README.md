@@ -29,6 +29,7 @@ To recognise the human gender using Machine Learning.
 
 Objectives:
 Following are the objectives for the proposed dissertation work:
+
 a. To collect and study database of Gender or Image Acquisition.
 b. Study of Pre-Processing methods.
 c. Study of machine learning methods to detect the features.
